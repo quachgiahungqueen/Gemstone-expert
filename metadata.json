@@ -1,0 +1,5 @@
+{
+  "name": "Chuyên Gia Đá Quý AI",
+  "description": "Một ứng dụng AI thông minh có khả năng phân tích và nhận dạng các loại đá quý, bán quý từ hình ảnh. Cung cấp đánh giá chi tiết về giá trị, độ quý hiếm và các đặc tính dựa trên tiêu chuẩn 4C, hoạt động như một chuyên gia ngọc học.",
+  "requestFramePermissions": []
+}
